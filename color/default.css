@@ -1,0 +1,70 @@
+/*original Color: #E3E142*/
+a:hover,
+a:focus {
+    color: #A9DCF4;
+}
+
+a,.tp-caption a.btn:hover {
+	color: #A9DCF4;
+}
+.top-nav-collapse {
+	background: #A9DCF4;
+}
+
+.carousel-indicators .active {
+    background-color: #A9DCF4;
+}
+
+.header-text h2 span {
+    background-color: #A9DCF4;
+}
+
+
+.navbar-custom ul.nav ul.dropdown-menu li a:hover {
+	color: #A9DCF4;
+}
+
+.owl-theme .owl-controls .owl-page.active span,
+.owl-theme .owl-controls.clickable .owl-page:hover span {
+    background-color: #A9DCF4;
+}
+
+.widget-avatar .avatar:hover {
+    border: 5px solid #A9DCF4;
+}
+
+.bg-skin {
+	background: #A9DCF4;
+}
+
+.highlight-color {
+	background-color: #A9DCF4;
+}
+
+
+
+
+
+form#contact-form input:focus,form#contact-form select:focus,form#contact-form textarea:focus {
+	border-color: #A9DCF4;
+}
+form.search-form input:focus {
+	border-color: #A9DCF4;
+}
+
+/* footer */
+ul.footer-menu li a:hover {
+	color: #A9DCF4;
+}
+
+footer a.totop:hover {
+	color: #A9DCF4;
+}
+
+
+.btn-skin {
+  color: #fff;
+  background-color: #A9DCF4;
+  border-color: #A9DCF4;
+}
+
